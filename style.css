@@ -49,4 +49,5 @@ body {
   color: lightgray;
   font-size: 65px;
   cursor: pointer;
+  transition: color 0.45s ease;
 }
